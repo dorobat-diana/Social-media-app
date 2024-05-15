@@ -19,7 +19,7 @@ const limiter = rateLimit({
   max: 100 // limit each IP to 100 requests per windowMs
 });
 
-const db= 'mongodb://localhost:27017/node_crud_db';
+const db= 'mongodb+srv://dianamaria828829:andrada1@myapp.6a34lv3.mongodb.net/';
 const app = express();
 //app.use(limiter);
 app.use(mongoSanitize());
