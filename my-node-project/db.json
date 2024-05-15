@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "Updated User",
+      "email": "updateduser@example.com",
+      "age": "40"
+    },
+    {
+      "id": "3",
+      "name": "Dr. Kaitlyn Koss",
+      "email": "Hobart.Keebler88@hotmail.com",
+      "age": "32"
+    },
+    {
+      "name": "New User",
+      "email": "newuser@example.com",
+      "age": "35",
+      "id": "5c78f13d-b066-4e8c-93e4-57347475a1eb"
+    }
+  ]
+}

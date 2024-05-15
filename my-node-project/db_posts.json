@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "userId": "1",
+      "caption": "Updated Post Caption",
+      "date": "2024-04-18"
+    },
+    {
+      "id": "3",
+      "userId": "2",
+      "caption": "Delicious brunch part 3",
+      "date": "2020-08-03"
+    }
+  ]
+}

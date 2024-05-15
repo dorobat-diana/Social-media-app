@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DIANA\\my-CRUD-project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DIANA\\my-CRUD-project\\my-node-project\\controllers\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-node-project\\controllers\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "users.js",
+              "DocumentMoniker": "C:\\Users\\DIANA\\my-CRUD-project\\my-node-project\\controllers\\users.js",
+              "RelativeDocumentMoniker": "my-node-project\\controllers\\users.js",
+              "ToolTip": "C:\\Users\\DIANA\\my-CRUD-project\\my-node-project\\controllers\\users.js",
+              "RelativeToolTip": "my-node-project\\controllers\\users.js",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-07T21:24:20.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
